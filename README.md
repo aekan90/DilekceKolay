@@ -1,18 +1,14 @@
 # DilekceKolay
 
-DilekceKolay.sln                # Ana solution dosyası
-│
-├── DilekceKolay.Web            # Sunum katmanı (Web Uygulaması)
-│
-├── DilekceKolay.Business       # İş mantığı katmanı
-│
-├── DilekceKolay.Data           # Veri erişim katmanı
-│
-├── DilekceKolay.Core           # Ortak kodlar ve yardımcı sınıflar
-│
-├── DilekceKolay.API            # API katmanı (Opsiyonel)
-│
+# Proje Yapısı
+DilekceKolay.sln  
+├── DilekceKolay.Web            # Sunum katmanı (Web Uygulaması)  
+├── DilekceKolay.Business       # İş mantığı katmanı  
+├── DilekceKolay.Data           # Veri erişim katmanı  
+├── DilekceKolay.Core           # Ortak kodlar ve yardımcı sınıflar  
+├── DilekceKolay.API            # API katmanı (Opsiyonel)  
 └── DilekceKolay.Tests          # Test katmanı
+
 
 
 
