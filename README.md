@@ -1,5 +1,15 @@
 # DilekceKolay
 
+DilekceKolay.sln
+│
+├── DilekceKolay.Web              # Sunum katmanı (Web Uygulaması)
+├── DilekceKolay.Business         # İş mantığı katmanı
+├── DilekceKolay.Data             # Veri erişim katmanı
+├── DilekceKolay.Core             # Ortak kodlar ve yardımcı sınıflar
+├── DilekceKolay.API              # API katmanı (opsiyonel)
+└── DilekceKolay.Tests            # Test katmanı
+
+
 **DilekceKolay**, Türkiye'deki kullanıcılar için trafik cezası ve diğer hukuki dilekçeleri hızlı, kolay ve anlaşılır bir şekilde hazırlamanızı sağlayan bir platformdur. Bu uygulama, kullanıcıların çeşitli hukuki işlemlerini pratik bir şekilde çözmelerine yardımcı olmayı amaçlamaktadır.
 
 ## Proje Özeti
